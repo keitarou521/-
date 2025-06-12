@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body{
+    margin: 0;
+    padding: 0;
+background-color: #cccccc;
+    color: #333333;
+    font-size: 15px;
+    line-height: 2;
+}
+p,h1,h2,h3,h4,h5,h6{
+    margin-top: 0; 
+}
+img{
+    vertical-alien; bottom;
+}
+ul {
+    margin: 0;
+    padding: 0
+}
+a {color: #3583aa;
+    text-decoration: none;
+}
+a :visited{color: #788d98;
+    }
+a:hover{
+    text-decoration: underline;
+}
+
